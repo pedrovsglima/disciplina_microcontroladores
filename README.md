@@ -1,2 +1,1 @@
-# microcontroladores
-Projetos desenvolvidos durante a disciplina Microcontroladores, ofertada pelo Departamento de Engenharia Elétrica da Universidade Federal de Pernambuco
+Todos os projetos foram desenvolvidos utilizando o microcontrolador PIC16F887 e utilizando o software mikroC PRO for PIC.
